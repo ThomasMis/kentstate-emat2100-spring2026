@@ -1,0 +1,48 @@
+main {
+    margin: auto;
+    width: 900px;
+}
+
+header {
+    background-color: lightskyblue;
+    height: 200px;
+}
+
+footer {
+    background-color: lightgray;
+    height: 50px;
+}
+
+.row {
+    background-color: lightsalmon;
+    height: 200px;
+    display: flex;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.flex-2 {
+    flex: 2;
+}
+
+.bc-lg {
+    background-color: lightgreen;
+}
+
+.bc-lp {
+    background-color: lightpink;
+}
+
+.bc-lgry {
+    background-color: lightgoldenrodyellow;
+}
+
+.bc-lsg {
+    background-color: lightseagreen;
+}
+
+.bc-lc {
+    background-color: lightcoral;
+}
